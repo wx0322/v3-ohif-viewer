@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\modes",
+    "\\platform",
+    "\\platform\\i18n\\src",
+    "\\platform\\i18n\\src\\locales",
+    "\\platform\\i18n\\src\\locales\\zh",
+    "\\platform\\ui",
+    "\\platform\\ui\\src",
+    "\\platform\\ui\\src\\components",
+    "\\platform\\ui\\src\\components\\StudyListPagination",
+    "\\platform\\viewer"
+  ],
+  "SelectedNode": "\\platform\\ui\\src\\components\\StudyListPagination\\StudyListPagination.tsx",
+  "PreviewInSolutionExplorer": false
+}
